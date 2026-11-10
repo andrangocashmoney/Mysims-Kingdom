@@ -204,4 +204,4 @@ This repository serves as the official landing page for MySims Kingdom. The soft
 **Get the most recent version of MySims Kingdom today!**
 
 ---
-**Last updated:** 2026-11-10 17:31:57 UTC
+**Last updated:** 2026-11-10 22:56:42 UTC
